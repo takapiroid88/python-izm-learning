@@ -1,0 +1,1 @@
+サイト：https://www.python-izm.com/introduction/
