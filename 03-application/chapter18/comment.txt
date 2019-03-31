@@ -1,0 +1,2 @@
+☆プロパティ
+propertyクラスにはgetter/setter/deleter/文字列を渡すことができる

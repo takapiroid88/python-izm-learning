@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<python-izm>
+  <category>
+    <name>introduction</name>
+    <url>https://www.python-izm.com/introduction/</url>
+  </category>
+  <category>
+    <name>basic</name>
+    <url>https://www.python-izm.com/basic/</url>
+  </category>
+  <category>
+    <name>advanced</name>
+    <url>https://www.python-izm.com/advanced/</url>
+  </category>
+</python-izm>

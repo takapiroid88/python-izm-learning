@@ -1,0 +1,11 @@
+☆コンテキストマネージャー
+withで前処理、後処理を行えるオブジェクト
+
+・作成方法１
+__enter__, __exit__ を実装することで実現
+
+・作成方法２
+デコレーターの使用
+import contextlib import contextmanager
+@contextmanager 
+def func():

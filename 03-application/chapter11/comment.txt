@@ -1,0 +1,6 @@
+☆モジュールのパッケージ化
+sysモジュールのpathに存在している必要がある
+python3.2以前では__init__.pyが必要（空ファイルで良い）
+import sys
+sys.path.append("/Users/takapiroid/Documents/python-izm-learning")
+のように追加可能
